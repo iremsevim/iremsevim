@@ -7,3 +7,10 @@
 
 ![](https://komarev.com/ghpvc/?username=iremsevim)
   
+ <H1> 🎮 fσℓℓσω мє</H1>
+
+
+<a href="#">
+  <i class="icon-linkedin"> <a href="https://www.linkedin.com/in/irem-sevim-a67796167/"> <img width="32" height="32" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg"></a></i>
+    <i class="icon-linkedin"> <a href="https://www.youtube.com/channel/UCx2JqejbckkgOOwU4zraQiA/videos"> <img width="32" height="32" src="https://cdn.iconscout.com/icon/free/png-256/youtube-85-226402.png"></a></i>  
+ </a>
