@@ -7,7 +7,7 @@
 
 ![](https://komarev.com/ghpvc/?username=iremsevim)
 
-[İrem's github stats](https://github-readme-stats.vercel.app/api?username=iremsevim&count_private=true)
+![İrem's github stats](https://github-readme-stats.vercel.app/api?username=iremsevim&count_private=true)
   
  <H1> 🎮 fσℓℓσω мє</H1>
 
