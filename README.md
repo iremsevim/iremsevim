@@ -6,6 +6,8 @@
   <img width="200" height="200" src="https://media2.giphy.com/media/iEvaIUPEKIRJSH4ghJ/giphy.gif?cid=ecf05e47qoom4et9bhn699kncyt7s74525zzciy2tjuyedkj&rid=giphy.gif" alt="" border="0">
 
 ![](https://komarev.com/ghpvc/?username=iremsevim)
+
+[İrem's github stats](https://github-readme-stats.vercel.app/api?username=iremsevim&count_private=true)
   
  <H1> 🎮 fσℓℓσω мє</H1>
 
