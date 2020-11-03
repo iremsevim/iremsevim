@@ -2,8 +2,18 @@
 ωιтн <a href="https://github.com/coskunersoft"> coskunersoft</a>
 </br>𝐈 𝐋𝐎𝐕𝐄 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐈𝐍𝐆 𝐆𝐀𝐌𝐄𝐒🚀 
 </br>
+<H2>Our Skills</H2>
+<a href="#">
+  <i class="icon-linkedin"> <img width="64" height="64" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/1200px-C_Sharp_logo.svg.png"></i>
+  <i class="icon-linkedin"> <img width="64" height="64" src="https://i.pinimg.com/originals/53/e1/31/53e131a6019f72f3eadfe8f1b9e53e22.png"></i>
+    <i class="icon-linkedin"> <img width="64" height="64" src="https://www.arifcetiner.com/wp-content/uploads/sql.png"></i>
+      <i class="icon-linkedin"> <img width="64" height="64" src="https://pbs.twimg.com/profile_images/378800000539531860/2c45151a4a11d3a3c8e71bb34dd069d6.png"></i>
+
+ </a>
+ </br></br>
 
   <img width="200" height="200" src="https://media2.giphy.com/media/iEvaIUPEKIRJSH4ghJ/giphy.gif?cid=ecf05e47qoom4et9bhn699kncyt7s74525zzciy2tjuyedkj&rid=giphy.gif" alt="" border="0">
+  
 
 ![](https://komarev.com/ghpvc/?username=iremsevim)
 
